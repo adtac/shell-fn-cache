@@ -64,6 +64,7 @@ To see a couple of other useless examples, see the `examples/` directory.
 Currently, `fn-cache` supports the following shells:
 
  - `zsh`
+ - `bash`
 
 If you want to see your favorite shell supported, please open an issue. Alternatively, you can contribute code that adds support. To do so, create a new file named `fn-cache.(bash|zsh|ksh|fish)` with an API that's the same as the `zsh` one. You may also add examples in the `examples/` directory (either adapt the existing ones or create new ones altogether).
 
